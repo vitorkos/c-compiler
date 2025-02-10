@@ -19,8 +19,6 @@ namespace C
                 ErrorMessages.Add("Main function context is null.");
                 return;
             }
-
-         
         }
 
         // var

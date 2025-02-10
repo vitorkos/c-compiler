@@ -5,11 +5,16 @@ void soma(int a, int b) {
     printf("Soma: %d\n", soma); 
 }
 
+//comentario
+/*
+comentarios
+*/
+
 int main() {
     int a, b;
-    printf("Digite o primeiro numero: ");
+    printf("n1: ");
     scanf("%d", &a);
-    printf("Digite o segundo numero: ");
+    printf("n2: ");
     scanf("%d", &b);
     soma(a, b);
 }
